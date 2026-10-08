@@ -38,7 +38,7 @@ See [docs/privacy.md](docs/privacy.md) for the extension-specific statement.
 - `lib/`: civil-date arithmetic, local event storage, exports, verified resource map.
 - `popup.*` and `planner.*`: bundled extension pages and styles.
 - `tests/`: deterministic unit, storage, export, and resource tests.
-- `docs/`: privacy, support, testing, architecture, Opera submission notes, and link mapping.
+- `docs/`: privacy, support, testing, architecture, Opera listing draft, submission notes, and link mapping.
 - `docs/firefox-amo-source-review.md`: audit of the existing pending Firefox AMO submission and its Opera API differences.
 
 ## Store status
