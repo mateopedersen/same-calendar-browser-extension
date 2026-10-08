@@ -2,6 +2,8 @@
 
 An offline-first calendar and planner for Chromium-based browsers, developed by Beta Calendars. The extension contains its own month, week, year, agenda, date-tool, print, backup, and optional printable-resource views. Event titles and notes stay in the browser's local extension storage.
 
+Publisher: [Beta Calendars](https://www.betacalendars.com/)
+
 ## Build the Opera package
 
 Requirements: Node.js 20 or later and Python 3.10 or later. The application has no runtime or build-library dependencies.
