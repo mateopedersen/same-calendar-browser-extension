@@ -1,0 +1,11 @@
+{
+  "name": "same-calendar-browser-extension",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Offline-first calendar and print planner WebExtension by Beta Calendars",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "build:opera": "node scripts/build-opera.mjs && python3 scripts/zip-release.py"
+  }
+}

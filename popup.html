@@ -1,0 +1,7 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Same Calendar</title><link rel="stylesheet" href="popup.css"></head><body><main class="popup">
+<header><div class="brand"><span class="mark">S</span><div><strong>Same Calendar</strong><small>Calendar &amp; Print Planner</small></div></div><button id="openSettings" class="icon-btn" aria-label="Settings" title="Settings">⚙</button></header>
+<section class="month-bar"><button id="prevMonth" aria-label="Previous month">‹</button><div><h1 id="monthTitle"></h1><button id="todayBtn" class="text-btn">Today</button></div><button id="nextMonth" aria-label="Next month">›</button></section>
+<div id="weekdayLabels" class="weekday-labels"></div><div id="monthGrid" class="month-grid" role="grid" aria-label="Monthly calendar"></div>
+<section class="day-panel"><div class="day-panel-head"><div><span class="eyebrow">SELECTED DAY</span><h2 id="selectedTitle"></h2></div><button id="addEvent" class="primary small">＋ Event</button></div><div id="dayEvents" class="event-list"></div></section>
+<footer><span id="eventCount">Private on this device</span><button id="openPlanner" class="text-btn">Open full planner →</button></footer>
+</main><script src="lib/calendar.js"></script><script src="lib/store.js"></script><script src="popup.js"></script></body></html>
