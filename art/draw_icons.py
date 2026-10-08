@@ -24,5 +24,5 @@ for row, y in enumerate((62, 77, 92)):
             draw.rounded_rectangle(box((x-8, y-8, x+8, y+8)), radius=5 * scale, fill=(8, 127, 120, 255))
         else:
             draw.ellipse(box((x-3.5, y-3.5, x+3.5, y+3.5)), fill=(133, 151, 158, 255))
-for dim in (128, 48, 16):
+for dim in (128, 64, 48, 16):
     image.resize((dim*scale, dim*scale), Image.Resampling.LANCZOS).resize((dim, dim), Image.Resampling.LANCZOS).save(root / "icons" / f"icon{dim}.png", optimize=True)
