@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Same Calendar — Calendar & Print Planner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A private offline calendar with personal events, printable planners, and practical date tools.",
   "permissions": ["storage"],
   "action": { "default_popup": "popup.html", "default_title": "Same Calendar" },

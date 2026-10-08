@@ -13,7 +13,7 @@ npm test
 npm run build:opera
 ```
 
-The build copies the reviewable production files into `dist/opera/` and creates `dist/same-calendar-opera-1.0.0.zip`. The ZIP has `manifest.json` at its root. No code is minified or downloaded during the build.
+The build copies the reviewable production files into `dist/opera/` and creates a versioned ZIP (currently `dist/same-calendar-opera-1.0.1.zip`). The ZIP has `manifest.json` at its root. No code is minified or downloaded during the build.
 
 To try an unpacked build, open the browser's extension manager, enable developer mode, and load `dist/opera/`. Use only a browser/profile where you are comfortable running a locally built extension.
 

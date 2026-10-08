@@ -1,11 +1,11 @@
 # Opera Add-ons listing draft
 
-Prepared 2026-10-08 from the features present in the Opera build. No store form has been submitted.
+Prepared 2026-10-08 from the features present in the Opera build. An initial 1.0.0 package was uploaded as a draft; its validator flagged resource URLs in JavaScript and a tabs API call. Version 1.0.1 removes those findings while retaining the `storage`-only permission set.
 
 ## Metadata
 
 - **Name:** Same Calendar — Calendar & Print Planner
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Category:** Productivity (select the matching category in the portal)
 - **Publisher:** Beta Calendars (verified Opera Account profile)
 - **Short summary:** A private offline calendar with personal events, printable planners, and practical date tools.

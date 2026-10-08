@@ -1,0 +1,23 @@
+{
+  "resources": [
+    { "month": "October", "year": 2026, "url": "https://www.betacalendars.com/october-calendar.html", "verified": true, "description": "Free printable October 2026 monthly calendar." },
+    { "month": "November", "year": 2026, "url": "https://www.betacalendars.com/november-calendar.html", "verified": true, "description": "Free printable November 2026 monthly calendar." },
+    { "month": "December", "year": 2026, "url": "https://www.betacalendars.com/december-calendar.html", "verified": true, "description": "Free printable December 2026 monthly calendar." },
+    { "month": "January", "year": 2027, "url": "https://www.betacalendars.com/january-calendar.html", "verified": true, "description": "Free printable January 2027 monthly calendar." },
+    { "month": "February", "year": 2027, "url": "https://www.betacalendars.com/february-calendar.html", "verified": true, "description": "Free printable February 2027 monthly calendar." },
+    { "month": "March", "year": 2027, "url": "https://www.betacalendars.com/march-calendar.html", "verified": true, "description": "Free printable March 2027 monthly calendar." },
+    { "month": "April", "year": 2027, "url": "https://www.betacalendars.com/april-calendar.html", "verified": true, "description": "Free printable April 2027 monthly calendar." },
+    { "month": "May", "year": 2027, "url": "https://www.betacalendars.com/may-calendar.html", "verified": true, "description": "Free printable May 2027 monthly calendar." },
+    { "month": "June", "year": 2027, "url": "https://www.betacalendars.com/june-calendar.html", "verified": true, "description": "Free printable June 2027 monthly calendar." },
+    { "month": "July", "year": 2027, "url": "https://www.betacalendars.com/july-calendar.html", "verified": true, "description": "Free printable July 2027 monthly calendar." },
+    { "month": "August", "year": 2027, "url": "https://www.betacalendars.com/august-calendar.html", "verified": true, "description": "Free printable August 2027 monthly calendar." },
+    { "month": "September", "year": 2027, "url": "https://www.betacalendars.com/september-calendar.html", "verified": true, "description": "Free printable September 2027 monthly calendar." }
+  ],
+  "collections": [
+    { "label": "Monthly calendar collection", "url": "https://www.betacalendars.com/monthly-calendar" },
+    { "label": "Blank calendar", "url": "https://www.betacalendars.com/blank-calendar" },
+    { "label": "Weekly calendar", "url": "https://www.betacalendars.com/weekly-calendar" },
+    { "label": "Monthly planner", "url": "https://www.betacalendars.com/monthly-planner" },
+    { "label": "Weekly planner", "url": "https://www.betacalendars.com/weekly-planner" }
+  ]
+}

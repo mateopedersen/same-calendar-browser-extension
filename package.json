@@ -1,6 +1,6 @@
 {
   "name": "same-calendar-browser-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Offline-first calendar and print planner WebExtension by Beta Calendars",
   "license": "MIT",
